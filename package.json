@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "ThomasApp",
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "*",
     "grunt-contrib-concat": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-watch": "*"
